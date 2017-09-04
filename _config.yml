@@ -1,11 +1,11 @@
-title: Hexo
+title: Hakama
 subtitle: "A fast, simple & powerful blog framework powered by Node.js."
 description: "Hexo is a fast, simple & powerful blog framework powered by Node.js."
-author: Hexo
+author: Kamil Warpechowski
 language: en
 timezone: UTC
 
-url: https://hexo.io
+url: https://blog.hakama.pl
 root: /
 permalink: news/:year/:month/:day/:title/
 archive_dir: news
