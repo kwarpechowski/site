@@ -1,5 +1,5 @@
 menu:
-  boooks: Książki
+  books: Książki
   api: API
   news: News
   plugins: Plugins
@@ -15,7 +15,7 @@ page:
   improve: Improve this doc
   prev: Prev
   next: Next
-  last_updated: "Last updated: %s"
+  last_updated: "Ostatnia aktualizacja: %s"
 
 sidebar:
   docs:
