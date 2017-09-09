@@ -1,4 +1,5 @@
 title: Książki
+comments: false
 ---
 
 ## Aktualnie czytane
